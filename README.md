@@ -96,11 +96,11 @@ Issueが溜まってきたら、
 気づきをまとめるためのMarkdownを作る。
 
 例：
-summary/
-├─ doubles_patterns.md
-├─ singles_center_play.md
-├─ backhand_problem.md
-└─ 2025_Q1_review.md
+summary/  
+├─ doubles_patterns.md  
+├─ singles_center_play.md  
+├─ backhand_problem.md  
+└─ 2025_Q1_review.md  
 
 ---
 
